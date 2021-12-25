@@ -7,7 +7,6 @@ let counter = 0;
 let isUp = false;
 let levelOfTheGame = 50;
 let isDie = false;
-const cactusY = 400;
 let cactusX = 1500;
 
 
